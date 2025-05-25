@@ -14,7 +14,7 @@ config wifi-iface 'default_radio0'
 	option device 'radio0'
 	option network 'lan'
 	option mode 'ap'
-	option ssid 'MMDVM Rooter'
+	option ssid 'MMDVM-Rooter'
 	option encryption 'psk2'
 	option key 'mmdvm@mt7628'
 
