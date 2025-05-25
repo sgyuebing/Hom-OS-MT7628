@@ -6,7 +6,7 @@ config system
 	option compat_version '1.0'
 	option timezone 'CST-8'
 	option zonename 'Asia/Shanghai'
-	option hostname 'MMDVM'
+	option hostname 'MMDVM_Rooter'
 	option log_proto 'udp'
 	option conloglevel '8'
 	option cronloglevel '5'
