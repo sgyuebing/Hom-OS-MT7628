@@ -1,0 +1,3 @@
+55 18 * * * /usr/sbin/BMMasterUpdate.sh
+55 18 * * * /usr/sbin/DMRIDUpdate.sh
+55 18 * * * /usr/sbin/YSFHostsUpdate.sh
