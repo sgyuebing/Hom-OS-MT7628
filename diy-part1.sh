@@ -21,5 +21,5 @@ sed -i '$a src-git netwizard https://github.com/sirpdboy/luci-app-netwizard' fee
 sed -i '$a src-git mmdvm https://github.com/qzyuebing/mmdvm-openwrt' feeds.conf.default
 #sed -i '$a src-git mmdvm https://github.com/lazywalker/mmdvm-openwrt' feeds.conf.default
 sed -i '$a src-git pptp https://github.com/qzyuebing/luci-app-pptp-server' feeds.conf.default
-sed -i '$a src-git oled https://github.com/NateLol/luci-app-oled' feeds.conf.default
+
 
